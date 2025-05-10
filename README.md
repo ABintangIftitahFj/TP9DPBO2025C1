@@ -156,3 +156,4 @@ Kelas `Template` mengganti placeholder ini dengan konten dinamis menggunakan met
 ## Kesimpulan
 
 Aplikasi ini mengimplementasikan pola arsitektur **MVP (Model-View-Presenter)** untuk memisahkan logika bisnis, presentasi data, dan antarmuka pengguna. Aliran data dan kontrol terstruktur dengan baik sehingga memudahkan pemeliharaan dan pengembangan lebih lanjut.
+https://github.com/user-attachments/assets/829b697e-f43c-45c7-b88e-c81139ac86fe
